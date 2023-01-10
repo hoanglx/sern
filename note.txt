@@ -10,3 +10,6 @@ git add .
 git commit -m "commit dau tien"
 git remote add origin https://github.com/hoanglx/sern.git
 git push origin master
+
+3. 
+cài NodeJS
