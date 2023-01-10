@@ -1,0 +1,12 @@
+1.
+Cấu hình git
+git config --global user.name "hoanglx"
+git config --global user.email "hoanglx@gmail.com"
+
+2.
+các câu lệnh cơ bản
+git init
+git add .
+git commit -m "commit dau tien"
+git remote add origin https://github.com/hoanglx/sern.git
+git push origin master
